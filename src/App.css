@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+
+  background: url("https://images.pexels.com/photos/4482896/pexels-photo-4482896.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-clip: border-box;
+
+}
+.customer_list{
+  
+  background-color: rgb(60, 215, 202);
+  color: rgb(0, 0, 0) !important;
+  opacity: 75%;
+}
+.profile_btn{
+  background:#a010b9;
+}
+
